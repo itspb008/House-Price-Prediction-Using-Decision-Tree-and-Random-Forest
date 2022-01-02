@@ -25,7 +25,8 @@ The project's objective is to anticipate the deal prize of Houses on the basis o
 1. The entire project is completed on Google Colab, which provide a Jupyter notebook environment that runs entirely in the cloud.
 2. For Feature Engineering 
      * Sklearn.preprocessing is used
-     * Category_encoders is used
+     * sklearn.impute is used
+     * sklearn.preprocessing is used
 3. For Model Building
      * Sklearn.trees for Decision Tree Regression
      * Sklearn.ensembles for Random Forest
